@@ -68,11 +68,5 @@ python validate.py --input_dir </path/containing/preprocessed/files> --ckpt </pa
 Startup `visualize.ipynb` and follow the instructions.
 
 ### Acknowledgment
-This code is partialy taken from [original XNM-net repo](https://github.com/shijx12/XNM-Net) for the implementation of the [Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855) paper
+The code was taken partially from the original [XNM-net repo](https://github.com/shijx12/XNM-Net) to implement [Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855) paper
 
-@inproceedings{shi2019explainable,
-  title={Explainable and Explicit Visual Reasoning over Scene Graphs},
-  author={Jiaxin Shi, Hanwang Zhang, Juanzi Li},
-  booktitle={CVPR},
-  year={2019}
-}
