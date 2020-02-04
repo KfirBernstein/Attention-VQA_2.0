@@ -6,7 +6,8 @@
 
 2. Preprocess glove file by running the command:
 ```
-python preprocess_glove.py </path/to/downloaded/glove/file> </path/to/output/glove/pickle/file>```
+python preprocess_glove.py </path/to/downloaded/glove/file> </path/to/output/glove/pickle/file>
+```
 
 3. Preprocess VQA2.0 train questions and obtain two output files: train_questions.pt and vocab.json.
 ```
